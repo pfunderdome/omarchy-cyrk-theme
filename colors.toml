@@ -1,0 +1,40 @@
+# cyrk — bold circus-poster palette drawn from the cyrk artwork:
+# deep night-navy skies, chartreuse statues, vermilion flats, olive shadows.
+mode = "dark"
+
+accent = "#dcd630"
+cursor = "#dcd630"
+selection = "#3b3d1a"
+selection_foreground = "#f7f4e1"
+selection_background = "#3b3d1a"
+muted = "#5f7190"
+
+background = "#0b1627"
+dark_background = "#08111f"
+darker_background = "#050c16"
+lighter_background = "#142540"
+
+foreground = "#e7e3cc"
+dark_foreground = "#a19f86"
+light_foreground = "#efecd8"
+bright_foreground = "#f7f4e1"
+
+red = "#f04a2e"
+yellow = "#e8bd2a"
+orange = "#f5812a"
+green = "#9dc43a"
+cyan = "#36b7c2"
+blue = "#5a97ef"
+magenta = "#e25a9e"
+brown = "#9c5523"
+
+bright_red = "#ff6f52"
+bright_yellow = "#f7d64e"
+bright_green = "#bce257"
+bright_cyan = "#66d6de"
+bright_blue = "#86b6ff"
+bright_magenta = "#f383bd"
+
+# Window borders: chartreuse into vermilion, like the lit statue against the flats.
+hyprland_active_border = "rgba(dcd630ff) rgba(f04a2eff) 45deg"
+hyprland_inactive_border = "rgba(1e3352aa)"
