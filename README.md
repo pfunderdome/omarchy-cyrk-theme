@@ -9,13 +9,13 @@ night-navy skies and flat vermilion rock.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<your-github-username>/omarchy-cyrk-theme.git
+omarchy theme install https://github.com/pfunderdome/omarchy-cyrk-theme.git
 ```
 
 Or clone it manually into `~/.config/omarchy/themes/`:
 
 ```bash
-git clone https://github.com/<your-github-username>/omarchy-cyrk-theme.git \
+git clone https://github.com/pfunderdome/omarchy-cyrk-theme.git \
   ~/.config/omarchy/themes/cyrk
 omarchy theme set cyrk
 ```
